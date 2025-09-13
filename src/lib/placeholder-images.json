@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar-1",
+      "description": "A portrait of a smiling person.",
+      "imageUrl": "https://picsum.photos/seed/1/200/200",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "A headshot of a person in professional attire.",
+      "imageUrl": "https://picsum.photos/seed/2/200/200",
+      "imageHint": "professional headshot"
+    },
+    {
+      "id": "avatar-3",
+      "description": "A candid photo of a person outdoors.",
+      "imageUrl": "https://picsum.photos/seed/3/200/200",
+      "imageHint": "person outdoors"
+    },
+    {
+      "id": "avatar-4",
+      "description": "A friendly-looking person against a neutral background.",
+      "imageUrl": "https://picsum.photos/seed/4/200/200",
+      "imageHint": "friendly person"
+    },
+    {
+      "id": "avatar-5",
+      "description": "A person working at a desk.",
+      "imageUrl": "https://picsum.photos/seed/5/200/200",
+      "imageHint": "person working"
+    },
+    {
+      "id": "avatar-6",
+      "description": "A person working at a desk.",
+      "imageUrl": "https://picsum.photos/seed/6/200/200",
+      "imageHint": "person farm"
+    }
+  ]
+}
